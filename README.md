@@ -1,6 +1,9 @@
 # cppRunner
 auto delete exe and you can run cpp from `cpp main.cpp` command like `python main.py `
 
+### NOTE
+`cpp` might reserve in your system so you can use `cppRunner` or rename it to anything and paste in mingw bin folder which is already in path (environment variables)
+
 ### how to use
 1) first install mingw and add mingw/bin to path (environment variables)
 2) then clone this repo at any location and add dist to environment variables !!!`[make sure you move dist folder up from mingw/bin folder in path variable because there is already a cpp.exe in mingw/bin]` `(or first add cppRunner/dist then add mingw/bin to environment variables)`
