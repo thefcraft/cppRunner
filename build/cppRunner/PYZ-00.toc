@@ -1,4 +1,4 @@
-('C:\\ThefCraft\\codeforces\\build\\cppRunner\\PYZ-00.pyz',
+('C:\\ThefCraft\\global-env-exe\\cppRunner\\build\\cppRunner\\PYZ-00.pyz',
  [('_compat_pickle',
    'C:\\Users\\laksh\\AppData\\Local\\Programs\\Python\\Python310\\lib\\_compat_pickle.py',
    'PYMODULE'),

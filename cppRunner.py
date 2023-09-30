@@ -11,7 +11,7 @@ if not os.path.exists(path):
     if not os.path.exists(path): raise ValueError("Could not find path %s" % path)
 
 exeName = fileNameWithoutExt(path)
-command = f'c++ "{path}" -o {exeName}'  # "~pathForMingw~\mingw\bin\c++.exe" but i already add this to my environment variable
+command = f'c++ "{path}" -o {exeName}.exe'  # "~pathForMingw~\mingw\bin\c++.exe" but i already add this to my environment variable
 runCommand = f'{exeName}.exe'
 
 # Compile the C++ file
